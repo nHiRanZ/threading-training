@@ -1,0 +1,7 @@
+.git
+.git/*
+.gradle
+.gradle/*
+.idea
+.idea/*
+.attach*
